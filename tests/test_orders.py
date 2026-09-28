@@ -1,5 +1,5 @@
 import pytest
-from ..src.orders import calculate_revenue
+from src.orders import calculate_revenue
  
 # Step 3: Positive Case
 def test_calculate_revenue_positive():
